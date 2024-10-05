@@ -13,8 +13,11 @@
     "@alpacahq/alpaca-trade-api": "^3.1.2",
     "chalk": "^5.3.0",
     "countdown": "^2.6.0",
+    "from": "^0.1.7",
+    "import": "^0.0.6",
     "moment-timezone": "^0.5.45",
     "node-notifier": "^10.0.1",
-    "node-wav-player": "^1.0.0"
+    "node-wav-player": "^1.0.0",
+    "notifier": "^0.2.0"
   }
 }
