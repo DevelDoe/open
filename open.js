@@ -18,6 +18,7 @@ const alpaca = new Alpaca({
   paper: true,
   usePolygon: false
 });
+test
 
 const args = minimist(process.argv.slice(2));  // Parse command-line arguments
 const isVerbose = args['v'];
