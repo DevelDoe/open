@@ -19,6 +19,8 @@ const alpaca = new Alpaca({
   usePolygon: false
 });
 
+tet
+
 const args = minimist(process.argv.slice(2));  // Parse command-line arguments
 const isVerbose = args['v'];
 const isTestMode = args['n'];  // Check for -n flag
