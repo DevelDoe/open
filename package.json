@@ -16,6 +16,7 @@
     "from": "^0.1.7",
     "import": "^0.0.6",
     "moment-timezone": "^0.5.45",
+    "node-fetch": "^2.6.7",
     "node-notifier": "^10.0.1",
     "node-wav-player": "^1.0.0",
     "notifier": "^0.2.0"
