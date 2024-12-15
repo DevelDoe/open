@@ -1,1 +1,13 @@
-sadfg
+) On holidays it shows the correct time > 24 hours to next open but then during sessions it behaves as its actually open session like normal
+) rush hour rename to open pre market and only for 30 minutes or maybe even remove this mini session. 
+) rush hour rename to open post market, 1 hour good
+) rush hour open market is 1.5 hours
+) pre market count down should be to open of market even during regulare pre market session (not only breking news). 
+  rush hours should count down there time, but pre-market countdown should be all the way to close pre market (open open)
+) power hour is 2 hours not 1! I know that might be the official definition but it has moved and the volume starts to go up already 2 hours before close
+) change name to moms trading hours 
+) sound on 7, 7.30, 8, 8.30, 9 (add a separate clock and alarm feature, maybe add the clock to the app :) sync clock to countdown
+  Maybe rewrite the whole program as a clock and then define title and have countdown that starts a certain amount depending on mode(title)
+) sound setting for alerts
+) power hour?
+) Post market shows 11 hours, when it should be 3 more after after hour rush
